@@ -3,7 +3,7 @@
 1. Project Overview -
 Frescho Hypermart Orders & Delivery Analytics is a comprehensive Excel-based business project created to evaluate supermarket orders, fulfillment metrics, and delivery performance. The workbook provides structured analysis on order timelines, delivery operational bottlenecks, and customer lifetime value (LTV).
 
-2. Business Problem -`
+2. Business Problem -
 Supermarket operations generate massive transaction datasets across multiple delivery slots, geographic locations, and customer channels, making it complex to track manual efficiency. The objective of this project is to process and analyze raw supermarket records to monitor:
 * Order fulfillment and delivery performance.  
 * Customer acquisition source effectiveness and LTV.  
