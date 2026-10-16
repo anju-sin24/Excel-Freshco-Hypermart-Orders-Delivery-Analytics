@@ -37,6 +37,6 @@ The workbook successfully uncovers:
 * High-performing customer acquisition sources driving distinct users and product amounts.
 * Slot-wise and weekday-wise patterns influencing supermarket order completion rates.
 * Delivery time variations across different geographical zones (e.g., Bellandur, HSR Layout, etc.).
-  
-9. Project Files Preview -
+
+## Project Files Preview -
  https://github.com/anju-sin24/Excel-Freshco-Hypermart-Orders-Delivery-Analytics/blob/main/NEW%20Excel%20CapstoneTransactionData_.xlsx
